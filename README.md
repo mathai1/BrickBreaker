@@ -1,26 +1,16 @@
-# csc413-SecondGame
-
-## Student Name  : Marvin Thai
-## Student ID    : 917432352
-
-
-## src folder is to be used to store source code only.
-
-## resources folder is to be used to store the resources for your project only. This includes images, sounds, map text files, etc.
-
-## jar folder is used to store the built jar of your term-project. NO SOURCE CODE SHOULD BE IN THIS FOLDER. DOING SO WILL CAUSE POINTS TO BE DEDUCTED
-## Project
-    https://github.com/csc413-02-spring2020/csc413-secondgame-mathai1.git
-    working Directory: csc413-secondgame-mathai1
+# BrickBreaker
+## Description:
+    A one palyer game where users controls a platform movement from right to left to hit a ball the bounces to try to break all the bricks/objects that are shown. Each different color brick represents how much hits it will need from the ball to be broken. There are special bricks that provides a power up the allows players to break the brick faster and more effeciently.
+    
   
 ## Sounds: 
     https://www.myinstants.com/instant/dink/
     Couldnt get collision noise to work in jar file
-  
-## Jar 
+## Install
+### Jar 
     Open jar in jar file and it should run
   
-## IntelliJ
+### IntelliJ
     Download/ Clone file onto your computer.
     Open intelliJ and click import Project.
     Import the file that you have Downloaded/Cloned.
