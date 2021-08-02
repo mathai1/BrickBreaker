@@ -1,6 +1,9 @@
 # BrickBreaker
 ## Description:
-    A one palyer game where users controls a platform movement from right to left to hit a ball the bounces to try to break all the bricks/objects that are shown. Each different color brick represents how much hits it will need from the ball to be broken. There are special bricks that provides a power up the allows players to break the brick faster and more effeciently.
+    A one player game where users controls a platform movement from right to left to hit a ball the bounces to try 
+    to break all the bricks/objects that are shown. Each different color brick represents how much hits it will need 
+    from the ball to be broken. There are special bricks that provides a power up the allows players to break the 
+    brick faster and more effeciently.
     
   
 ## Sounds: 
